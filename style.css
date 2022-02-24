@@ -14,3 +14,10 @@ Template: accessible-minimalism-wordpress-theme
 Text Domain: wp2static
 Tags: accessibility, minimalism, a11y, minimalist, fast, performance
 */
+
+.has-vivid-green-cyan-background-color {
+    background-color: var(--wp--preset--color--vivid-green-cyan) !important;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
